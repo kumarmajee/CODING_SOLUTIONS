@@ -1,3 +1,24 @@
+/* Use arrays to structure the raw data and to perform data comparison &
+operations
+Triplets are a set of three similar things.
+Complete the function to print all the triplets <A, B, C> such that A+B = C
+void printTriplets(int[ ] data) {
+}
+Example Sample Input Sample Output
+1
+data ={2,3,4,5,7} <2,3,5>
+<2,5,7>
+<3,4,7>
+2
+data = {1,2,3,4,5,7,9} <1,2,3>
+<1,3,4>
+<1,4,5>
+<2,3,5>
+<2,5,7>
+<3,4,7>
+<4,5,9>
+*/
+
 import java.util.Scanner;
 
 public class code25triplets 
