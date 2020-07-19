@@ -1,3 +1,12 @@
+/*Use arrays to structure the raw data and to perform data comparison &
+operations
+Given a sentence which consists of alphabets [a-zA-Z], digits [0-9], “,” and “.”.
+Write a method which returns a string after reversing only the alphabets [a-zA-Z] in a sentence which
+is passed as an argument the method.
+Note: reversing has to be done word-by-word. Example: if sentence contains “Hello World”, the
+reversed sentence will be “dlroW olleH”
+*/
+
 import java.util.Scanner;
 
 public class code22revtheword {
